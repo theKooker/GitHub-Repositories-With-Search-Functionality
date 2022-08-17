@@ -1,11 +1,10 @@
 # GitHub-Repositories-With-Search-Functionality
 
-
-
-
+# About Project
+It is typically to display a github user informations with the repositories and allow the user to filter through the repositories by name using a search bar. 
 
 # HOW TO RUN THE APP
-# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -46,8 +45,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# FUTURE IMPROVEMENTS
+The app/project is build using bootstrap5.0 for react TS. It would be better if we can use [Tailwind css](https://tailwindcss.com/).
+Besides new functionalities in Github API could be used to create new features in the project such display the Merge Requests and the statistics of the user.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# FEEDBACK FOR CODING CHALLENGE
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I would say, it was a great challenge for me to complete this page in less then 4 hours.
+I hope, I have done, what i should :D 
+
+
