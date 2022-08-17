@@ -40,13 +40,13 @@ function Sidebar() {
 
       <div className="d-flex flex-column">
         <div className="pt-2">
-          <h2>{githubName}</h2>
+          <h1>{githubName}</h1>
         </div>
         <div className="pt-1">
-          <h1 className="text-secondary">{githubUsername}</h1>
+          <h3 className="text-secondary">{githubUsername}</h3>
         </div>
         <div className="pt-4">
-          <h4 className="font-italic">{githubBio}</h4>
+          <h6 className="font-italic">{githubBio}</h6>
         </div>
         <div className="pt-4">
           <Button className="btn btn-secondary btn-lg ">Follow +</Button>
@@ -57,7 +57,7 @@ function Sidebar() {
               <GoLocation size={30} />
             </div>
             <div className="col-md-1">
-              <h3>{githubLocation}</h3>
+              <h4>{githubLocation}</h4>
             </div>
           </div>
         </div>

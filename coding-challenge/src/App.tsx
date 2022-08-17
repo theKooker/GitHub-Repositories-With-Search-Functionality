@@ -5,6 +5,7 @@ import SearchRepos from './search-repos/SearchRepos';
 
 function App() {
   return (
+    <div className="bg-light bg-gradient">
     <div className="container">
         <div className="row">
           <div className="box col-md-4 pt-4">
@@ -15,6 +16,8 @@ function App() {
           </div>
         </div>
     </div>
+    </div>
+
   );
 }
 
